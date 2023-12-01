@@ -5,7 +5,7 @@
  require "pages/slider.php";
  require "pages/card.php"; 
 
- 
+ test
 
 
 ?>
